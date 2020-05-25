@@ -34,6 +34,7 @@ steps:
     pip install pytest
     pip install pytest-azurepipelines
     # cd /home/vsts/work/1/s/python-sample-vscode-flask-tutorial
+    pwd
     ls
     pytest --disable-warnings
   displayName: 'pytest'
