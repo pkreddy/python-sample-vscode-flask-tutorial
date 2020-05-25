@@ -1,3 +1,5 @@
+[![Build Status](https://pranaykatta.visualstudio.com/PartsUnlimited/_apis/build/status/pkreddy.python-sample-vscode-flask-tutorial?branchName=master)](https://pranaykatta.visualstudio.com/PartsUnlimited/_build/latest?definitionId=5&branchName=master)
+
 # Python/Flask tutorial sample for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
