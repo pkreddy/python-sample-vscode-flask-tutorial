@@ -33,6 +33,6 @@ steps:
 - script: |
     pip install pytest
     pip install pytest-azurepipelines
-    cd python-sample-vscode-flask-tutorial
+    cd /home/vsts/work/1/s/python-sample-vscode-flask-tutorial
     pytest --disable-warnings
   displayName: 'pytest'
